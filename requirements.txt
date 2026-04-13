@@ -1,0 +1,5 @@
+requests
+ebooklib
+beautifulsoup4
+lxml
+weasyprint
