@@ -11,6 +11,11 @@ Tự động tải và chuyển đổi bộ kinh **Tích truyện Pháp Cú** (T
 - Nhúng ảnh bìa vào cả hai định dạng
 - Xuất đồng thời file `.epub` và `.pdf`
 
+## File mẫu
+
+- [Tích truyện pháp cú (PDF)](./tich-truyen-phap-cu.pdf)
+- [Tích truyện pháp cú (EPUB)](./tich-truyen-phap-cu.epub)
+  
 ## Yêu cầu
 
 - Python 3.12+
